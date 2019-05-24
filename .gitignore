@@ -1,5 +1,7 @@
 deploying_env
 # Byte-compiled / optimized / DLL files
+.DS_Store
+deploying_env
 __pycache__/
 *.py[cod]
 *$py.class
